@@ -19,6 +19,7 @@ export class MembaSharedEventBusStack extends Stack {
     const eventBus = new EventBus(this, eventBusName, {
       eventBusName,
     })
+
     const allowToPutEvents = {
       Principal: '*',
       Condition: {
