@@ -12,9 +12,7 @@ export class MembaSharedEventBusStack extends Stack {
   constructor(scope: Construct, id: string, props: MembaSharedEventBusStackProps) {
     super(scope, id, props)
 
-    const {stage} = props
-
-    const eventBusName = `${CONFIG.STACK_PREFIX}EventBus-${stage}`
+    const eventBusName = CONFIG.STACK_PREFIX
 
     const eventBus = new EventBus(this, eventBusName, {
       eventBusName,

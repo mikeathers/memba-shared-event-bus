@@ -8,7 +8,7 @@ import CONFIG from './config'
 
 const app = new App()
 const stage = getStage(app)
-const stackName = `${CONFIG.STACK_PREFIX}SharedEventBuseStack-${stage}`
+const stackName = `${CONFIG.STACK_PREFIX}Component`
 
 const defaultConfig = {
   stage,

@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="27df5917-f90e-4528-bcd0-97063c5c2066" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/memba-shared-event-bus-stack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/memba-shared-event-bus-stack.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.tsbuildinfo" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <workItem from="1686321277855" duration="2221000" />
       <workItem from="1686492350724" duration="37000" />
       <workItem from="1686492731724" duration="7000" />
-      <workItem from="1686498396878" duration="3226000" />
+      <workItem from="1686498396878" duration="4276000" />
     </task>
     <servers />
   </component>
